@@ -337,7 +337,7 @@ struct
        | PROD => "prod"
        | PAIR => "pair"
        | SPREAD => "spread"
-       | FUN => "pi"
+       | FUN => "fun"
        | LAM => "lam"
        | AP => "ap"
        | ISECT => "isect"
